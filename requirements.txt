@@ -1,7 +1,8 @@
-%%writefile requirements.txt
 
 streamlit
 textblob
 pandas
+numpy
 scikit-learn
 joblib
+
